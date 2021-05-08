@@ -17,4 +17,4 @@ class del {
     }
 }
 
-module.exports = del;
+module.exports = del; 
