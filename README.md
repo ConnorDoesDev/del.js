@@ -16,7 +16,7 @@ id | Snowflake | false | Your bot's client ID.
 
 --- 
 
-### Discord.js v12 Example
+### example
 
 ```js
 const Discord = require("discord.js")
